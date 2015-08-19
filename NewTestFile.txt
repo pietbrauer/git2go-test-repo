@@ -1,1 +1,3 @@
 Hello my dear Git repository
+
+I love git, I think.
