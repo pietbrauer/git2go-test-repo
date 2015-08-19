@@ -1,3 +1,5 @@
 Hello my dear Git repository
 
 I love git, I think.
+
+Until someone tests it, I guess.
