@@ -1,1 +1,5 @@
+<<<<<<< ours
 ## Let’s it: managing and writing documentation or FAQ articles is the most boring thing on earth and as a small team of two is too time consuming. Maybe one day we will have an intern program where people write a lot of FAQ articles but for now we are stuck with ourselves. So how to make fun and get multiple purposes out of the task?
+=======
+## Let’s and writing documentation or FAQ articles is the most boring thing on earth and as a small team of two it is too time consuming. Maybe one day we will have an intern program where people write a lot of FAQ articles but for now we are stuck with ourselves. So how to make it fun and get multiple purposes out of the task?
+>>>>>>> theirs
